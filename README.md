@@ -3,7 +3,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![GitHub stars](https://img.shields.io/github/stars/jtprogru/wifi-qr.svg)](https://github.com/jtprogru/wifi-qr/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues-raw/jtprogru/wifi-qr)](https://github.com/jtprogru/wifi-qr/issues)
-[![GitHub](https://img.shields.io/github/license/jtprgoru/wifi-qr)](https://github.com/jtprogru/wifi-qr/)
+[![GitHub](https://img.shields.io/github/license/jtprogru/wifi-qr)](https://github.com/jtprogru/wifi-qr/)
 
 Simple script for generate QR-code for connect to WiFi.
 
