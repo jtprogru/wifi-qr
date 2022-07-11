@@ -42,7 +42,7 @@ For feedback please create [issues](https://github.com/jtprogru/wifi-qr/issues).
 - Michael (jtprogru) Savin
   - :octocat: [@jtprogru](https://github.com/jtprogru)
   - :bird: [@jtprogru](https://www.twitter.com/jtprogru)
-  - :moneybag: [savinmi.ru](https://savinmi.ru)
+  - :moneybag: [s11l.me](https://s11l.me)
 
 
 ## License
